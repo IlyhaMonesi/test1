@@ -1,3 +1,9 @@
 123
 
+<<<<<<< HEAD
 456new brach line
+=======
+456
+789
+Add line
+>>>>>>> 9a31a70bd06a360a62b1ba5eff29fd0665ca6de8
